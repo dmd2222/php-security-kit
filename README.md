@@ -2,7 +2,10 @@
 A helpful security kit of website securing code
 --------------------------------------------------
 --------------------------------------------------
-
+VERSION:
+0.0.0.1.0.0.05 Beta Edition
+--------------------------------------------------
+--------------------------------------------------
 
 DEVELOPMENT STOPPED!
 
@@ -20,8 +23,6 @@ CHANGES:
 AUTO UPDATE:
 Set a cronejob on update/autoupdate.php.
 
-VERSION:
-0.0.0.1.0.0.05 Beta Edition
 
 
 SOURCES:
