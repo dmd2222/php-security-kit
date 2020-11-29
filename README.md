@@ -21,7 +21,7 @@ AUTO UPDATE:
 Set a cronejob on update/autoupdate.php.
 
 VERSION:
-See version.txt
+0.0.0.1.0.0.05 Beta Edition
 
 
 SOURCES:
