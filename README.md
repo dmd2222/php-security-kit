@@ -11,7 +11,7 @@ To Do:
 Eigentum der CSD.
 https://cs-digital-ug.de/
 
-V0.0.0.1.1 Beta Version
+V0.0.0.1.1.0 Beta Version
 
 
 
