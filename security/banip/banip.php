@@ -36,7 +36,7 @@ SOURCE: https://github.com/jknipper/htaccess-banip
 const MAX_RETRY = 20;
 const FIND_TIME = 600;
 
-const HTACCESS_FILE = "../.htaccess";
+const HTACCESS_FILE = "../../.htaccess";
 const IP_DB_FILE    = "./db.txt";
 
 /*
