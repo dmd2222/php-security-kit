@@ -3,6 +3,9 @@ A helpful security kit of website securing code
 
 
 
+DEVELOPMENT STOPPED!
+
+
 To Do:
 -Make Readme fine
 
