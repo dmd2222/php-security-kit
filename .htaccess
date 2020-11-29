@@ -1,1 +1,4 @@
 ErrorDocument 401 /security/banip/banip.php
+
+ErrorDocument 404 https://idenlink.de/php-security-kit/ErrorDocument/error.php?err=404
+

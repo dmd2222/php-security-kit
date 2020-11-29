@@ -78,6 +78,7 @@ function check_ip( $ip ) {
 function ban_ip( $ip ) {
 	$deny = sprintf( "\nDENY FROM %s", $ip );
 	file_put_contents( HTACCESS_FILE, $deny, FILE_APPEND );
+	echo "done";
 }
 
 function load() {
