@@ -13,7 +13,13 @@ TO DO:
 
 
 
-Changes:
+CHANGES:
+
+
+
+AUTO UPDATE:
+Set a cronejob on update/autoupdate.php.
+
 VERSION:
 See version.txt
 
