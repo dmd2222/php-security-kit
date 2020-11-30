@@ -2,5 +2,5 @@
 echo %date% %time%
 git add .
 git commit -m "I did it %date% %time%"
-git push
+git push -u origin beta
 pause
